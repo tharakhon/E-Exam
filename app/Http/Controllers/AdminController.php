@@ -10,12 +10,12 @@ class AdminController extends Controller
     function index(){
         $blogs=[
             [
-                'fullname'=>"นาย",
+                'fullname'=>"นาย ก",
                 'Leavetype'=>"ลาป่วย",
                 'status'=>true, 
             ],
             [
-                'fullname'=>"นาย",
+                'fullname'=>"นาง ข",
                 'Leavetype'=>"ลาป่วย",
                 'status'=>false, 
             ],
